@@ -1,0 +1,25 @@
+.{
+	margin: 5px;
+	padding: 5px;
+}
+body{
+	
+	background-color: #9b8585;
+
+	
+	width: 100%;
+	
+	}
+
+.donnes{
+	border: solid black 2px;
+	padding-top: 10px;
+	margin-top: 10px;
+	
+}
+
+.center {
+	width: 50%;
+	margin: auto;
+	text-align: center;
+}
